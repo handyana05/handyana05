@@ -33,7 +33,7 @@ Senior Software Engineer with 14+ years of experience building enterprise softwa
 
 ## Featured Projects
 
-### Expense Tracker
+### Expenses Tracker
 
 Personal finance management application built with:
 
@@ -41,6 +41,8 @@ Personal finance management application built with:
 - PostgreSQL
 - Docker
 - Clean Architecture
+
+➡️ Repository: https://github.com/handyana05/expenses-tracker
 
 ### Coming Soon
 
