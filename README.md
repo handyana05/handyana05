@@ -56,4 +56,4 @@ Personal finance management application built with:
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- LinkedIn: https://www.linkedin.com/in/handyana-sumitra-atmaja
