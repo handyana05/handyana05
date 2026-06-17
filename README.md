@@ -1,61 +1,36 @@
 # Hi, I'm Handyana 👋
 
-Senior Software Engineer with 14+ years of experience building enterprise software.
+Senior Software Engineer with 14+ years of experience building enterprise software and cloud-native applications.
 
-## About Me
+## What I Do
 
-- Senior Software Engineer at adesso SE
-- Microsoft Azure Certified
-- Specialized in C#, .NET, Azure, Docker and Kubernetes
-- Based in Germany
+- Backend Development with ASP.NET Core
+- Clean Architecture & Domain-Driven Design
+- PostgreSQL & SQL Server
+- Azure Cloud Solutions
+- Docker & Kubernetes
+- CI/CD Automation
+- Software Architecture
 
-## Technologies
+## Current Focus
 
-### Backend
-
-- C#
-- .NET
 - ASP.NET Core
-- Entity Framework Core
-
-### Cloud & DevOps
-
-- Azure
-- Docker
+- Cloud-Native Applications
 - Kubernetes
-- GitHub Actions
+- Azure
+- AI-Assisted Development
 
-### Frontend
+## Featured Project
 
-- Angular
-- TypeScript
-- React
+### Expense Tracker API
 
-## Featured Projects
-
-### Expenses Tracker
-
-Personal finance management application built with:
+Production-style backend built with:
 
 - ASP.NET Core
+- Clean Architecture
 - PostgreSQL
 - Docker
-- Clean Architecture
-
-➡️ Repository: https://github.com/handyana05/expenses-tracker
-
-### Coming Soon
-
-- AI PDF Assistant
-- Azure Cloud Samples
-- OpenTelemetry Demo
-
-## Certifications
-
-- Azure Developer Associate
-- Azure Administrator Associate
-- Azure Fundamentals
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/handyana-sumitra-atmaja
+- JWT Authentication
+- FluentValidation
+- Unit Testing
+- GitHub Actions
